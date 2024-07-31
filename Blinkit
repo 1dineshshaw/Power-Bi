@@ -1,1 +1,23 @@
-Blinkit project
+Project Title: Blinkit Analysis in Power BI
+
+Objective:
+Developed a comprehensive data analysis project using Power BI to assess various aspects of sales performance. 
+The project aimed to understand the impact of fat content, item type, and outlet characteristics on total sales.
+
+Key Analysis and Visualizations:
+
+Total Sales by Fat Content: Utilized a Donut Chart to analyze how fat content influences total sales,
+                          including additional KPIs such as average sales, number of items sold, and average ratings.
+Total Sales by Item Type: Employed a Bar Chart to compare the performance of different item types, 
+                          analyzing additional metrics to gain deeper insights.
+Fat Content by Outlet for Total Sales: Used a Stacked Column Chart to compare total sales across outlets
+                          segmented by fat content, evaluating additional KPIs to provide a holistic view.
+Total Sales by Outlet Establishment: Created a Line Chart to evaluate how different outlet characteristics, 
+                          such as age or type, affect total sales.
+Skills Demonstrated:
+
+Data modeling and DAX in Power BI
+Advanced data visualization techniques
+Analysis of key performance indicators (KPIs)
+Insight generation and reporting
+This project showcases my ability to leverage Power BI for insightful business analysis, focusing on visual storytelling and data-driven decision-making.
